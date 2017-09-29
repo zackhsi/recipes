@@ -1,6 +1,7 @@
 Recipes
 =======
 
+- `Grilled beef tenderloin <images/grilled-beef-tenderloin.pdf>`_.
 - `Pasta with mushrooms and prosciutto`_.
 - `Coconut chicken thai curry`_.
 
